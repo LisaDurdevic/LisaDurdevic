@@ -19,7 +19,7 @@ He was one of those hardcore old school developers who actually had to write the
 
 So I started to search *the* course to learn coding, sorted things out at work before quitting and now here I am - at **CodersBay**. Learning **Java, SQL, HTML5, CSS ...**
 
-There is enough I still need to learn but I am keeping the pace, thanks to the support my **family, colleagues and trainers** offer to me.
+There is enough I still need to learn but I am keeping the pace, thanks to the support my **family, colleagues and trainers** offer to me. 💖💖💖
 
 
 *If there is anything else you would like to now about me or maybe now a place where I could do my practical training please feel free to contact me by mail (lisa.durdevic@gmx.at) or visit my LinkedIn-profile here: https://www.linkedin.com/in/lisa-%C4%91ur%C4%91evi%C4%87-187821217/*
